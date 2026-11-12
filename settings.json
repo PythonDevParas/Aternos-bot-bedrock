@@ -5,9 +5,9 @@
     "offline": false
   },
   "server": {
-    "ip": "your-bedrock-server.aternos.me",
+    "ip": "LEVELaSMP.aternos.me",
     "port": 19132,
-    "version": ""
+    "version": "1.26.62.1"
   },
   "utils": {
     "auto-reconnect": true,
