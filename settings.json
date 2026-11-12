@@ -1,0 +1,29 @@
+{
+  "name": "Bedrock AFK Bot",
+  "bot-account": {
+    "username": "YourXboxGamertagOrOfflineName",
+    "offline": false
+  },
+  "server": {
+    "ip": "your-bedrock-server.aternos.me",
+    "port": 19132,
+    "version": ""
+  },
+  "utils": {
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000,
+    "max-reconnect-delay": 120000,
+    "chat-log": true,
+    "chat-messages": {
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 120,
+      "messages": [
+        "Hello from my Bedrock bot!"
+      ]
+    }
+  },
+  "dashboard": {
+    "port": 5000
+  }
+}

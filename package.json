@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-bedrock-24-7-bot",
+  "version": "1.0.0",
+  "description": "Bedrock Edition server connection bot with reconnect logic and web dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.61.0",
+    "express": "^4.21.2"
+  }
+}
